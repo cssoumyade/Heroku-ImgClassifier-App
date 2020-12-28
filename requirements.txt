@@ -31,8 +31,8 @@ gunicorn==20.0.4
 h5py==2.10.0
 idna
 importlib-metadata
-ipython==7.19.0
-ipython-genutils==0.2.0
+ipython
+ipython-genutils
 itsdangerous==1.1.0
 jedi==0.18.0
 Jinja2==2.11.2
