@@ -18,7 +18,6 @@ Flask==1.1.2
 google-pasta==0.2.0
 h5py==2.10.0
 ipykernel==5.4.2
-ipython==7.19.0
 ipython-genutils==0.2.0
 itsdangerous==1.1.0
 jedi==0.18.0
