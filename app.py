@@ -29,4 +29,4 @@ def upload_file():
     return render_template("upload.html", predictions=preds, display_image=f.filename)
 
 if __name__ == "__main__":
-    app.run(debug=True,port="4100")
+    app.run(host="0.0.0.0",debug=True,port="4100")
